@@ -10,4 +10,4 @@
 
 // }
 
-document.write(<h1 class = "text-danger">hello</h1> )
+console.log('hello')
